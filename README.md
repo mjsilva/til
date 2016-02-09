@@ -10,12 +10,17 @@ variety of languages and technologies.
 ### Categories
 
 * [PhpStorm](#PhpStorm)
+* [Redis](#Redis)
 
 ---
 
 ### PhpStorm
 
 - [Markup Plugin](phpstorm/markup-plugin.md)
+
+### Redis
+
+- [Run commands against results](redis/run-commands-against-results.md)
 
 ## About
 
